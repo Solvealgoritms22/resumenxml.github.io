@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_Info>
+    <Estructura>
+        <Descripción>XML utiliza etiquetas para organizar los datos en una jerarquía de elementos. Tiene un único elemento raíz.</Descripción>
+    </Estructura>
+    <Flexibilidad>
+        <Descripción>Permite a los usuarios definir sus propias etiquetas, adaptándose a diferentes necesidades y sectores.</Descripción>
+    </Flexibilidad>
+    <Usos>
+        <Uso>Web Services</Uso>
+        <Uso>Configuración de Software</Uso>
+        <Uso>Ofimática</Uso>
+        <Uso>Comunicaciones e Integraciones</Uso>
+    </Usos>
+    <LenguajesBasadosEnXML>
+        <Lenguaje>XHTML</Lenguaje>
+        <Lenguaje>SVG</Lenguaje>
+        <Lenguaje>RSS</Lenguaje>
+    </LenguajesBasadosEnXML>
+    <Ventajas>
+        <Ventaja>Portabilidad</Ventaja>
+        <Ventaja>Legibilidad</Ventaja>
+        <Ventaja>Estandarización</Ventaja>
+    </Ventajas>
+    <HerramientasDeTrabajo>
+        <Herramienta>Validadores</Herramienta>
+        <Herramienta>XSLT</Herramienta>
+        <Herramienta>XPath y XQuery</Herramienta>
+    </HerramientasDeTrabajo>
+</XML_Info>
